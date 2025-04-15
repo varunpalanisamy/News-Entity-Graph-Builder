@@ -1,8 +1,8 @@
 # News Entity Graph Builder
 
 <p align="center">
-  <img src="./map.png" height="375"/>
-  <img src="./sql1.png" height="375"/>
+  <img src="./map.png" height="350"/>
+  <img src="./sql1.png" height="350"/>
 </p>
 
 This project scrapes real-time news articles from NDTV, uses NLP (spaCy) to extract named entities, and optionally enriches relationships between those entities using GPT-4. The results are stored in a PostgreSQL database and visualized as knowledge graphs using NetworkX and Matplotlib.
